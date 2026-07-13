@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pratham6306/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/pratham6306/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
