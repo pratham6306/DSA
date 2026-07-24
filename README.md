@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratham6306/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/pratham6306/DSA/tree/master/0006-zigzag-conversion) |
+| [0151-reverse-words-in-a-string](https://github.com/pratham6306/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratham6306/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pratham6306/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pratham6306/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/pratham6306/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
